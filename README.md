@@ -47,6 +47,44 @@ Grâce à HyperBox, organisez vos raccourcis par catégories (Développement, Cr
 
 ---
 
+### 🌴 Arborescence 
+
+src/
+│
+├─ components/
+│   ├─ Sidebar/
+│   │   ├─ Sidebar.jsx
+│   │   └─ Sidebar.module.css
+│   ├─ CategoryList/
+│   │   ├─ CategoryList.jsx
+│   │   └─ CategoryList.module.css
+│   ├─ AppGrid/
+│   │   ├─ AppGrid.jsx
+│   │   └─ AppGrid.module.css
+│   ├─ Footer/
+│   │   ├─ Footer.jsx
+│   │   └─ Footer.module.css
+│   ├─ UserTypeSelector/
+│   │   ├─ UserTypeSelector.jsx
+│   │   └─ UserTypeSelector.module.css
+│   ├─ SettingsModal/
+│   │   ├─ SettingsModal.jsx
+│   │   └─ SettingsModal.module.css
+│   └─ (autres composants à venir)
+│
+├─ assets/
+│   ├─ icons/
+│   └─ (logos, images, etc.)
+│
+├─ styles/
+│   └─ variables.css  (pour les couleurs principales, ou tailwind config si tu veux Tailwind)
+│
+├─ App.jsx
+├─ index.jsx
+└─ index.css
+
+---
+
 ### 📚 Documentation
 
 - [Guide de démarrage](docs/FR_guide_demarrage.md) *(en cours)*
@@ -115,6 +153,44 @@ With HyperBox, organize your shortcuts by category (Development, Crypto, Office,
 ### 📦 Installation
 
 *Coming soon: Windows, Mac, and Linux instructions. Stay tuned!*
+
+---
+
+### 🌴 Arborescence 
+
+src/
+│
+├─ components/
+│   ├─ Sidebar/
+│   │   ├─ Sidebar.jsx
+│   │   └─ Sidebar.module.css
+│   ├─ CategoryList/
+│   │   ├─ CategoryList.jsx
+│   │   └─ CategoryList.module.css
+│   ├─ AppGrid/
+│   │   ├─ AppGrid.jsx
+│   │   └─ AppGrid.module.css
+│   ├─ Footer/
+│   │   ├─ Footer.jsx
+│   │   └─ Footer.module.css
+│   ├─ UserTypeSelector/
+│   │   ├─ UserTypeSelector.jsx
+│   │   └─ UserTypeSelector.module.css
+│   ├─ SettingsModal/
+│   │   ├─ SettingsModal.jsx
+│   │   └─ SettingsModal.module.css
+│   └─ (autres composants à venir)
+│
+├─ assets/
+│   ├─ icons/
+│   └─ (logos, images, etc.)
+│
+├─ styles/
+│   └─ variables.css  (pour les couleurs principales, ou tailwind config si tu veux Tailwind)
+│
+├─ App.jsx
+├─ index.jsx
+└─ index.css
 
 ---
 
