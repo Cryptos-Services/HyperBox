@@ -11,14 +11,14 @@ Centraliser et lancer tous vos logiciels, dossiers et sites web favoris dans une
 
 ## 🚦 MVP (Produit Minimum Viable)
 
-- [🟡] Affichage d'une fenêtre type menu démarrer
-- [✅] Barre latérale (sidebar) avec catégories (3 par défaut)
-- [✅] Affichage des éléments (apps, sites, dossiers) par catégorie
-- [✅] Ajout manuel d’un élément via interface
+- 🟡 Affichage d'une fenêtre type menu démarrer
+- ✅ Barre latérale (sidebar) avec catégories (3 par défaut)
+- ✅ Affichage des éléments (apps, sites, dossiers) par catégorie
+- ✅ Ajout manuel d’un élément via interface
 - [ ] Suppression/édition d’un élément
-- [✅] Lancement d’une app, ouverture d’un dossier ou d’un site web
+- ✅ Lancement d’une app, ouverture d’un dossier ou d’un site web
 - [ ] Persistance de la configuration (JSON local)
-- [✅] Choix du mode utilisateur au premier lancement (Dev/Crypto/Bureautique/Custom)
+- ✅ Choix du mode utilisateur au premier lancement (Dev/Crypto/Bureautique/Custom)
 - [ ] Basculer l’interface en français ou anglais
 
 ---
