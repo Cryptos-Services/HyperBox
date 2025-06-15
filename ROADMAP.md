@@ -53,8 +53,3 @@ Centraliser et lancer tous vos logiciels, dossiers et sites web favoris dans une
 - Venez discuter dans les Discussions du repo
 
 ---
-
-**Tu peux cocher les cases directement sur GitHub pour suivre l’avancement.**  
-N’hésite pas à modifier ou enrichir la roadmap au fil du projet !
-
----
