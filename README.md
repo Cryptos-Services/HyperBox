@@ -48,7 +48,7 @@ Grâce à HyperBox, organisez vos raccourcis par catégories (Développement, Cr
 ---
 
 <<<<<<< HEAD
-### 🌴 Arborescence 
+### 🌴 Arborescence
 
 src/
 │
@@ -87,7 +87,9 @@ src/
 ---
 
 ### 📚 Documentation
+
 =======
+
 ### 🌴 Arborescence
 
 src/
@@ -120,7 +122,6 @@ Le style est géré principalement avec Tailwind CSS et les couleurs de la chart
 ---
 
 ### 📚 Documentation (FR)
->>>>>>> b0074b9 (Initial commit: source, config, docs)
 
 - [Guide de démarrage](docs/FR_guide_demarrage.md) *(en cours)*
 - [FAQ](docs/FR_faq.md) *(en cours)*
@@ -130,14 +131,12 @@ Le style est géré principalement avec Tailwind CSS et les couleurs de la chart
 
 ### 🧑‍💻 Contribuer
 
-<<<<<<< HEAD
-HyperBox est ouvert à toutes vos idées !  
+HyperBox est ouvert à toutes vos idées !
 Pour proposer une amélioration ou corriger un bug :
 =======
 HyperBox est ouvert à toutes vos idées !
 Pour proposer une amélioration ou corriger un bug :
 
->>>>>>> b0074b9 (Initial commit: source, config, docs)
 1. Forkez le dépôt
 2. Ouvrez une issue ou une pull request
 3. Rejoignez la communauté !
@@ -202,7 +201,7 @@ With HyperBox, organize your shortcuts by category (Development, Crypto, Office,
 ---
 
 <<<<<<< HEAD
-### 🌴 Arborescence 
+### 🌴 Arborescence
 
 src/
 │
