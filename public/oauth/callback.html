@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Connexion réussie</title>
+    <style>
+      body {
+        background: #030121;
+        color: #ffde59;
+        font-family: sans-serif;
+        text-align: center;
+        padding: 40px;
+      }
+      .btn {
+        background: #ffde59;
+        color: #181633;
+        border: none;
+        border-radius: 8px;
+        padding: 8px 16px;
+        font-size: 16px;
+        margin: 12px;
+        cursor: pointer;
+      }
+      .btn:hover {
+        background: #ffe066;
+      }
+      .platform-link {
+        display: inline-block;
+        margin: 16px 0;
+        font-size: 16px;
+        color: #181633;
+        background: #ffde59;
+        border-radius: 8px;
+        padding: 8px 16px;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      .platform-link:hover {
+        background: #ffe066;
+      }
+      .hidden {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <img
+      src="https://aadcdn.msftauthimages.net/c1c6b6c8-l1df9ug3sjygtoogjmjxnhy4ojzuc9ut2nf4yp9ktz4/appbranding/cawkcmu0fpl2vj2cdmn3pdc0hyawnt6kiasur-nizoi/1033/bannerlogo?ts=638869787952092283"
+      alt="HyperBox Logo"
+      width="150"
+      height="150"
+    />
+    <h1>HyperBox</h1>
+    <h2 id="title">🎉 Connexion réussie !</h2>
+    <p id="desc"></p>
+    <a
+      id="platform-link"
+      class="platform-link hidden"
+      href="#"
+      target="_blank"
+    ></a>
+    <br />
+    <button class="btn" id="return-btn">Retourner à HyperBox</button>
+    <script>
+      // Détection du provider pour tous les cas
+      let provider = "cloud";
+      if (window.location.pathname.includes("onedrive")) provider = "onedrive";
+      else if (window.location.pathname.includes("dropbox"))
+        provider = "dropbox";
+      else if (window.location.search.includes("provider=google"))
+        provider = "google";
+
+      let name = "votre stockage cloud";
+      let link = "#";
+      let help = "";
+
+      if (provider === "google") {
+        name = "GoogleDrive";
+        link = "https://drive.google.com/drive/my-drive";
+        favicon = "https://www.google.com/favicon.ico";
+        help =
+          "Pour terminer la configuration de Google Drive, créez un dossier <b>HyperBox</b> à l'endroit où vous souhaitez retrouver vos fichiers. Vous pouvez y accéder directement via le bouton ci-dessous ou le faire plus tard.";
+      }
+      if (provider === "onedrive") {
+        name = "OneDrive";
+        link = "https://onedrive.live.com/";
+        favicon = "https://www.onedrive.com/favicon.ico";
+        help =
+          "Pour terminer la configuration de OneDrive, créez un dossier <b>HyperBox</b> à l'endroit où vous souhaitez retrouver vos fichiers. Vous pouvez y accéder directement via le bouton ci-dessous ou le faire plus tard.";
+      }
+      if (provider === "dropbox") {
+        name = "Dropbox";
+        link = "https://www.dropbox.com/home";
+        favicon = "https://www.dropbox.com/favicon.ico";
+        help =
+          "Pour terminer la configuration de Dropbox, créez un dossier <b>HyperBox</b> à l'endroit où vous souhaitez retrouver vos fichiers. Vous pouvez y accéder directement via le bouton ci-dessous ou le faire plus tard.";
+      }
+
+      document.getElementById(
+        "title"
+      ).textContent = `🎉 HyperBox est maintenant relié à ${name} !`;
+      document.getElementById("desc").innerHTML = help;
+
+      if (provider !== "cloud") {
+        const platformLink = document.getElementById("platform-link");
+        platformLink.href = link;
+        platformLink.textContent = `Continuer vers ${name}`;
+        platformLink.classList.remove("hidden");
+      }
+
+      document.getElementById("return-btn").onclick = () => {
+        window.close();
+        setTimeout(() => {
+          alert("Vous pouvez fermer cette fenêtre et retourner sur HyperBox.");
+        }, 200);
+      };
+      // Ajouter le favicon pour la plateforme
+      const linkElement = document.createElement("link");
+      linkElement.rel = "icon";
+      linkElement.href = favicon;
+      document.head.appendChild(linkElement);
+      // Ajouter le favicon pour HyperBox
+      const hyperboxFavicon = document.createElement("link");
+      hyperboxFavicon.rel = "icon";
+      hyperboxFavicon.href =
+        "https://aadcdn.msftauthimages.net/c1c6b6c8-l1df9ug3sjygtoogjmjxnhy4ojzuc9ut2nf4yp9ktz4/appbranding/cawkcmu0fpl2vj2cdmn3pdc0hyawnt6kiasur-nizoi/1033/bannerlogo?ts=638869787952092283"; // L'URL de votre favicon HyperBox
+    </script>
+  </body>
+</html>

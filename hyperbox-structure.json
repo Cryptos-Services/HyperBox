@@ -1,0 +1,3030 @@
+[
+  {
+    "name": "Bureautique",
+    "items": [],
+    "children": [
+      {
+        "name": "Automatisation et Outils d’Efficacité",
+        "items": [],
+        "children": [
+          {
+            "name": "Automatisation des Tâches",
+            "items": [
+              {
+                "type": "web",
+                "name": "IFTTT (If This Then That)",
+                "url": "https://ifttt.com"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Power Automate",
+                "url": "https://flow.microsoft.com"
+              },
+              {
+                "type": "web",
+                "name": "Zapier",
+                "url": "https://zapier.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Gestion des Mots de Passe",
+            "items": [
+              {
+                "type": "web",
+                "name": "1Password",
+                "url": "https://1password.com"
+              },
+              {
+                "type": "web",
+                "name": "Bitwarden",
+                "url": "https://bitwarden.com"
+              },
+              {
+                "type": "web",
+                "name": "LastPass",
+                "url": "https://www.lastpass.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Macros & Scripts",
+            "items": [
+              {
+                "type": "web",
+                "name": "AutoHotkey",
+                "url": "https://www.autohotkey.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils RPA (Robotic Process Automation)",
+            "items": [
+              {
+                "type": "web",
+                "name": "Automation Anywhere",
+                "url": "https://www.automationanywhere.com"
+              },
+              {
+                "type": "web",
+                "name": "Blue Prism",
+                "url": "https://www.blueprism.com"
+              },
+              {
+                "type": "web",
+                "name": "UiPath",
+                "url": "https://www.uipath.com"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Communication",
+        "items": [],
+        "children": [
+          {
+            "name": "Messagerie",
+            "items": [
+              {
+                "type": "web",
+                "name": "Discord (Bureau)",
+                "url": "https://discord.com"
+              },
+              {
+                "type": "web",
+                "name": "Mattermost",
+                "url": "https://mattermost.com"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Teams",
+                "url": "https://teams.microsoft.com"
+              },
+              {
+                "type": "web",
+                "name": "Rocket.Chat",
+                "url": "https://rocket.chat"
+              },
+              {
+                "type": "web",
+                "name": "Slack",
+                "url": "https://slack.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Visioconférence",
+            "items": [
+              {
+                "type": "web",
+                "name": "Google Meet",
+                "url": "https://meet.google.com"
+              },
+              {
+                "type": "web",
+                "name": "Jitsi Meet",
+                "url": "https://jitsi.org"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Teams (Visioconférence)",
+                "url": "https://teams.microsoft.com"
+              },
+              {
+                "type": "web",
+                "name": "Skype",
+                "url": "https://www.skype.com"
+              },
+              {
+                "type": "web",
+                "name": "Whereby",
+                "url": "https://whereby.com"
+              },
+              {
+                "type": "web",
+                "name": "Zoom",
+                "url": "https://zoom.us"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Gestion de Projets",
+        "items": [],
+        "children": [
+          {
+            "name": "Outils de Collaboration en Équipe",
+            "items": [
+              {
+                "type": "web",
+                "name": "Figma (Design collaboratif)",
+                "url": "https://www.figma.com"
+              },
+              {
+                "type": "web",
+                "name": "Miro (Tableau blanc collaboratif)",
+                "url": "https://miro.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Gestion de Projets",
+            "items": [
+              {
+                "type": "web",
+                "name": "Asana",
+                "url": "https://asana.com"
+              },
+              {
+                "type": "web",
+                "name": "ClickUp",
+                "url": "https://clickup.com"
+              },
+              {
+                "type": "web",
+                "name": "Jira",
+                "url": "https://www.atlassian.com/software/jira"
+              },
+              {
+                "type": "web",
+                "name": "Trello",
+                "url": "https://trello.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Planification et Calendriers",
+            "items": [
+              {
+                "type": "web",
+                "name": "Calendly (Planification de réunions)",
+                "url": "https://calendly.com"
+              },
+              {
+                "type": "web",
+                "name": "Google Calendar",
+                "url": "https://calendar.google.com"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Outlook Calendar",
+                "url": "https://outlook.live.com/calendar/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Suivi du Temps",
+            "items": [
+              {
+                "type": "web",
+                "name": "Clockify",
+                "url": "https://clockify.me"
+              },
+              {
+                "type": "web",
+                "name": "Harvest",
+                "url": "https://www.getharvest.com"
+              },
+              {
+                "type": "web",
+                "name": "Toggl Track",
+                "url": "https://toggl.com/track/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Gestion des Contacts et CRM",
+        "items": [],
+        "children": [
+          {
+            "name": "Gestion des e-Mails et Newsletters",
+            "items": [
+              {
+                "type": "web",
+                "name": "Constant Contact",
+                "url": "https://www.constantcontact.com"
+              },
+              {
+                "type": "web",
+                "name": "Mailchimp",
+                "url": "https://mailchimp.com"
+              },
+              {
+                "type": "web",
+                "name": "SendinBlue (Brevo)",
+                "url": "https://www.sendinblue.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Gestion des Contacts",
+            "items": [
+              {
+                "type": "web",
+                "name": "HubSpot CRM",
+                "url": "https://www.hubspot.com"
+              },
+              {
+                "type": "web",
+                "name": "Salesforce",
+                "url": "https://www.salesforce.com"
+              },
+              {
+                "type": "web",
+                "name": "Zoho CRM",
+                "url": "https://www.zoho.com/crm/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Outils de Design et Création",
+        "items": [],
+        "children": [
+          {
+            "name": "Graphisme et Design",
+            "items": [
+              {
+                "type": "web",
+                "name": "Adobe Photoshop",
+                "url": "https://www.adobe.com/products/photoshop.html"
+              },
+              {
+                "type": "web",
+                "name": "Canva",
+                "url": "https://www.canva.com"
+              },
+              {
+                "type": "web",
+                "name": "Figma (Design UI_UX)",
+                "url": "https://www.figma.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Montage Vidéo et Audio",
+            "items": [
+              {
+                "type": "web",
+                "name": "Adobe Premiere Pro",
+                "url": "https://www.adobe.com/products/premiere.html"
+              },
+              {
+                "type": "web",
+                "name": "Audacity (Audio)",
+                "url": "https://www.audacityteam.org"
+              },
+              {
+                "type": "web",
+                "name": "DaVinci Resolve",
+                "url": "https://www.blackmagicdesign.com/products/davinciresolve/"
+              },
+              {
+                "type": "web",
+                "name": "Final Cut Pro (Mac)",
+                "url": "https://www.apple.com/final-cut-pro/"
+              },
+              {
+                "type": "web",
+                "name": "OBS Studio (Streaming et Enregistrement)",
+                "url": "https://obsproject.com"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Outils Divers",
+        "items": [],
+        "children": [
+          {
+            "name": "Accessibilité et Outils d'Aide",
+            "items": [
+              {
+                "type": "web",
+                "name": "JAWS (Lecteur d'écran)",
+                "url": "https://www.freedomscientific.com/products/software/jaws/"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Accessibility Tools",
+                "url": "https://www.microsoft.com/accessibility"
+              },
+              {
+                "type": "web",
+                "name": "NVDA (Lecteur d'écran)",
+                "url": "https://www.nvaccess.org"
+              },
+              {
+                "type": "web",
+                "name": "VoiceOver (Mac)",
+                "url": "https://www.apple.com/accessibility/mac/vision/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Calculatrices et Convertisseurs",
+            "items": [
+              {
+                "type": "web",
+                "name": "Desmos (Calculatrice graphique)",
+                "url": "https://www.desmos.com/calculator"
+              },
+              {
+                "type": "web",
+                "name": "Unit Converter (Convertisseur d'unités)",
+                "url": "https://www.unitconverters.net"
+              },
+              {
+                "type": "web",
+                "name": "Wolfram Alpha (Calculateur avancé)",
+                "url": "https://www.wolframalpha.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Impression & Scanner",
+            "items": [
+              {
+                "type": "web",
+                "name": "Adobe Acrobat (Impression PDF)",
+                "url": "https://www.adobe.com/acrobat/pdf-reader.html"
+              },
+              {
+                "type": "web",
+                "name": "Google Cloud Print (Impression en ligne)",
+                "url": "https://www.google.com/cloudprint"
+              },
+              {
+                "type": "web",
+                "name": "NAPS2 (Scanner et OCR)",
+                "url": "https://www.naps2.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Capture d'Écran et d'Enregistrement Vidéo",
+            "items": [
+              {
+                "type": "web",
+                "name": "OBS Studio (Enregistrement vidéo)",
+                "url": "https://obsproject.com"
+              },
+              {
+                "type": "web",
+                "name": "ShareX (Capture d'écran et enregistrement)",
+                "url": "https://getsharex.com"
+              },
+              {
+                "type": "web",
+                "name": "Snagit (Capture d'écran)",
+                "url": "https://www.techsmith.com/screen-capture.html"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "PDF & Documents",
+        "items": [],
+        "children": [
+          {
+            "name": "Conversion de Fichiers",
+            "items": [
+              {
+                "type": "web",
+                "name": "CloudConvert",
+                "url": "https://cloudconvert.com"
+              },
+              {
+                "type": "web",
+                "name": "Zamzar",
+                "url": "https://www.zamzar.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Création et Édition de PDF",
+            "items": [
+              {
+                "type": "web",
+                "name": "Adobe Acrobat Reader",
+                "url": "https://www.adobe.com/acrobat/pdf-reader.html"
+              },
+              {
+                "type": "web",
+                "name": "Foxit PDF Editor",
+                "url": "https://www.foxitsoftware.com/pdf-editor/"
+              },
+              {
+                "type": "web",
+                "name": "LibreOffice Draw",
+                "url": "https://www.libreoffice.org/download/download/"
+              },
+              {
+                "type": "web",
+                "name": "PDF-XChange Editor",
+                "url": "https://www.tracker-software.com/product/pdf-xchange-editor"
+              },
+              {
+                "type": "web",
+                "name": "PDF24 Tools",
+                "url": "https://tools.pdf24.org"
+              },
+              {
+                "type": "web",
+                "name": "PDFescape",
+                "url": "https://www.pdfescape.com"
+              },
+              {
+                "type": "web",
+                "name": "Smallpdf",
+                "url": "https://smallpdf.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Lecteurs PDF",
+            "items": [
+              {
+                "type": "web",
+                "name": "Adobe Acrobat Reader",
+                "url": "https://www.adobe.com/acrobat/pdf-reader.html"
+              },
+              {
+                "type": "web",
+                "name": "Foxit Reader",
+                "url": "https://www.foxitsoftware.com/pdf-reader/"
+              },
+              {
+                "type": "web",
+                "name": "Okular (Linux)",
+                "url": "https://okular.kde.org"
+              },
+              {
+                "type": "web",
+                "name": "Sumatra PDF",
+                "url": "https://www.sumatrapdfreader.org/free-pdf-reader.html"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Productivité",
+        "items": [],
+        "children": [
+          {
+            "name": "Prise de Notes",
+            "items": [
+              {
+                "type": "web",
+                "name": "Evernote",
+                "url": "https://evernote.com"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft OneNote",
+                "url": "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app"
+              },
+              {
+                "type": "web",
+                "name": "Notion",
+                "url": "https://www.notion.so"
+              },
+              {
+                "type": "web",
+                "name": "Obsidian",
+                "url": "https://obsidian.md"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Présentations",
+            "items": [
+              {
+                "type": "web",
+                "name": "Google Slides",
+                "url": "https://slides.google.com"
+              },
+              {
+                "type": "web",
+                "name": "LibreOffice Impress",
+                "url": "https://www.libreoffice.org/download/download/"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft PowerPoint",
+                "url": "https://www.microsoft.com/en-us/microsoft-365/powerpoint"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Tableurs",
+            "items": [
+              {
+                "type": "web",
+                "name": "Google Sheets",
+                "url": "https://sheets.google.com"
+              },
+              {
+                "type": "web",
+                "name": "LibreOffice Calc",
+                "url": "https://www.libreoffice.org/download/download/"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Excel",
+                "url": "https://www.microsoft.com/en-us/microsoft-365/excel"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Traitement de texte",
+            "items": [
+              {
+                "type": "web",
+                "name": "Google Docs",
+                "url": "https://docs.google.com"
+              },
+              {
+                "type": "web",
+                "name": "LibreOffice Writer",
+                "url": "https://www.libreoffice.org/download/download/"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Word",
+                "url": "https://www.microsoft.com/en-us/microsoft-365/word"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Stockage et Partage de Fichiers",
+        "items": [],
+        "children": [
+          {
+            "name": "Partage de Fichiers et Collaboration",
+            "items": [
+              {
+                "type": "web",
+                "name": "SharePoint (Microsoft)",
+                "url": "https://sharepoint.com"
+              },
+              {
+                "type": "web",
+                "name": "WeTransfer",
+                "url": "https://wetransfer.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Stockage en Ligne",
+            "items": [
+              {
+                "type": "web",
+                "name": "Box",
+                "url": "https://www.box.com"
+              },
+              {
+                "type": "web",
+                "name": "Dropbox",
+                "url": "https://www.dropbox.com"
+              },
+              {
+                "type": "web",
+                "name": "Google Drive",
+                "url": "https://drive.google.com"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft OneDrive",
+                "url": "https://onedrive.live.com"
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Crypto",
+    "items": [],
+    "children": [
+      {
+        "name": "Airdrops & Récompenses",
+        "items": [],
+        "children": [
+          {
+            "name": "Plateformes d'Airdrops",
+            "items": [
+              {
+                "type": "web",
+                "name": "Airdrop Alert",
+                "url": "https://airdropalert.com"
+              },
+              {
+                "type": "web",
+                "name": "AirdropBob",
+                "url": "https://airdropbob.com"
+              },
+              {
+                "type": "web",
+                "name": "AirdropKing",
+                "url": "https://airdropking.io"
+              },
+              {
+                "type": "web",
+                "name": "AirdropX",
+                "url": "https://airdropx.com"
+              },
+              {
+                "type": "web",
+                "name": "CoinMarketCap Airdrops",
+                "url": "https://coinmarketcap.com/airdrops/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Récompenses et Programmes de Fidélité",
+            "items": [
+              {
+                "type": "web",
+                "name": "Binance Earn",
+                "url": "https://www.binance.com/en/earn"
+              },
+              {
+                "type": "web",
+                "name": "Coinbase Earn",
+                "url": "https://www.coinbase.com/earn"
+              },
+              {
+                "type": "web",
+                "name": "Crypto.com Earn",
+                "url": "https://crypto.com/earn"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Apprentissage & Communautés",
+        "items": [],
+        "children": [
+          {
+            "name": "Cours et Tutoriels",
+            "items": [
+              {
+                "type": "web",
+                "name": "CryptoZombies",
+                "url": "https://cryptozombies.io"
+              },
+              {
+                "type": "web",
+                "name": "Ethereum.org (Apprentissage)",
+                "url": "https://ethereum.org/en/learn/"
+              },
+              {
+                "type": "web",
+                "name": "Solidity by Example",
+                "url": "https://solidity-by-example.org"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Formations & MOOCs",
+            "items": [
+              {
+                "type": "web",
+                "name": "Coursera (Crypto Courses)",
+                "url": "https://www.coursera.org/courses?query=cryptocurrency"
+              },
+              {
+                "type": "web",
+                "name": "edX (Blockchain Courses)",
+                "url": "https://www.edx.org/learn/blockchain"
+              },
+              {
+                "type": "web",
+                "name": "Udemy (Crypto Courses)",
+                "url": "https://www.udemy.com/courses/search/?q=cryptocurrency"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Forums et Communautés",
+            "items": [
+              {
+                "type": "web",
+                "name": "Discord (Crypto)",
+                "url": "https://discord.gg/cryptocurrency"
+              },
+              {
+                "type": "web",
+                "name": "Reddit (Crypto)",
+                "url": "https://www.reddit.com/r/CryptoCurrency/"
+              },
+              {
+                "type": "web",
+                "name": "Telegram (Crypto)",
+                "url": "https://t.me/cryptocurrency"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "DAO & Gouvernance",
+        "items": [],
+        "children": [
+          {
+            "name": "Outils de Gouvernance et de Vote",
+            "items": [
+              {
+                "type": "web",
+                "name": "Gnosis Safe (Gouvernance)",
+                "url": "https://gnosis-safe.io"
+              },
+              {
+                "type": "web",
+                "name": "Snapshot",
+                "url": "https://snapshot.org"
+              },
+              {
+                "type": "web",
+                "name": "Tally Ho (Gouvernance)",
+                "url": "https://tally.xyz"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Plateformes de DAO",
+            "items": [
+              {
+                "type": "web",
+                "name": "Aragon",
+                "url": "https://aragon.org"
+              },
+              {
+                "type": "web",
+                "name": "Colony",
+                "url": "https://colony.io"
+              },
+              {
+                "type": "web",
+                "name": "DAOstack",
+                "url": "https://daostack.io"
+              },
+              {
+                "type": "web",
+                "name": "Moloch DAO",
+                "url": "https://molochdao.com"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "DeFi",
+        "items": [],
+        "children": [
+          {
+            "name": "Agrégateurs",
+            "items": [
+              {
+                "type": "web",
+                "name": "1inch (Agrégateur DEX)",
+                "url": "https://1inch.io"
+              },
+              {
+                "type": "web",
+                "name": "DeBank",
+                "url": "https://debank.com"
+              },
+              {
+                "type": "web",
+                "name": "Matcha",
+                "url": "https://matcha.xyz"
+              },
+              {
+                "type": "web",
+                "name": "Paraswap",
+                "url": "https://paraswap.io"
+              },
+              {
+                "type": "web",
+                "name": "Zapper",
+                "url": "https://zapper.fi"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Assurance Décentralisée",
+            "items": [
+              {
+                "type": "web",
+                "name": "Cover Protocol",
+                "url": "https://coverprotocol.com"
+              },
+              {
+                "type": "web",
+                "name": "Etherisc",
+                "url": "https://etherisc.com"
+              },
+              {
+                "type": "web",
+                "name": "InsurAce",
+                "url": "https://insurace.io"
+              },
+              {
+                "type": "web",
+                "name": "Nexus Mutual",
+                "url": "https://nexusmutual.io"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Protocoles d’Emprunt et de Prêt",
+            "items": [
+              {
+                "type": "web",
+                "name": "Aave",
+                "url": "https://aave.com"
+              },
+              {
+                "type": "web",
+                "name": "Compound",
+                "url": "https://compound.finance"
+              },
+              {
+                "type": "web",
+                "name": "Cream Finance",
+                "url": "https://cream.finance"
+              },
+              {
+                "type": "web",
+                "name": "dYdX (Emprunt)",
+                "url": "https://dydx.exchange"
+              },
+              {
+                "type": "web",
+                "name": "MakerDAO",
+                "url": "https://makerdao.com"
+              },
+              {
+                "type": "web",
+                "name": "Yearn Finance",
+                "url": "https://yearn.finance"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Yield Farming",
+            "items": [
+              {
+                "type": "web",
+                "name": "Balancer (Farming)",
+                "url": "https://balancer.finance"
+              },
+              {
+                "type": "web",
+                "name": "Curve Finance (Farming)",
+                "url": "https://curve.fi"
+              },
+              {
+                "type": "web",
+                "name": "Harvest Finance",
+                "url": "https://harvest.finance"
+              },
+              {
+                "type": "web",
+                "name": "SushiSwap (Yield Farming)",
+                "url": "https://sushi.com"
+              },
+              {
+                "type": "web",
+                "name": "Yearn Finance (Farming)",
+                "url": "https://yearn.finance"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "NFTs",
+        "items": [],
+        "children": [
+          {
+            "name": "Marchés de NFTs",
+            "items": [
+              {
+                "type": "web",
+                "name": "Foundation",
+                "url": "https://foundation.app"
+              },
+              {
+                "type": "web",
+                "name": "LooksRare",
+                "url": "https://looksrare.org"
+              },
+              {
+                "type": "web",
+                "name": "Nifty Gateway",
+                "url": "https://niftygateway.com"
+              },
+              {
+                "type": "web",
+                "name": "OpenSea",
+                "url": "https://opensea.io"
+              },
+              {
+                "type": "web",
+                "name": "Rarible",
+                "url": "https://rarible.com"
+              },
+              {
+                "type": "web",
+                "name": "SuperRare",
+                "url": "https://superrare.com"
+              },
+              {
+                "type": "web",
+                "name": "X2Y2",
+                "url": "https://x2y2.io"
+              },
+              {
+                "type": "web",
+                "name": "Zora Marketplace",
+                "url": "https://zora.co/marketplace"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Création de NFTs",
+            "items": [
+              {
+                "type": "web",
+                "name": "Mintable",
+                "url": "https://mintable.app"
+              },
+              {
+                "type": "web",
+                "name": "NFT Creator",
+                "url": "https://nftcreator.io"
+              },
+              {
+                "type": "web",
+                "name": "OpenSea Create",
+                "url": "https://opensea.io/create"
+              },
+              {
+                "type": "web",
+                "name": "Rarible Create",
+                "url": "https://rarible.com/create"
+              },
+              {
+                "type": "web",
+                "name": "Zora",
+                "url": "https://zora.co"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Ressources et Communautés NFT",
+            "items": [
+              {
+                "type": "web",
+                "name": "NFT Communities",
+                "url": "https://www.nftcommunities.com"
+              },
+              {
+                "type": "web",
+                "name": "NFT Culture",
+                "url": "https://nftculture.com"
+              },
+              {
+                "type": "web",
+                "name": "NFT Now",
+                "url": "https://www.nftnow.com"
+              },
+              {
+                "type": "web",
+                "name": "NFT Subreddit",
+                "url": "https://www.reddit.com/r/NFT/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Portefeuilles",
+        "items": [],
+        "children": [
+          {
+            "name": "Hard Wallets",
+            "items": [
+              {
+                "type": "web",
+                "name": "BitBox",
+                "url": "https://shiftcrypto.ch/bitbox02"
+              },
+              {
+                "type": "web",
+                "name": "Ledger Live",
+                "url": "https://www.ledger.com/ledger-live"
+              },
+              {
+                "type": "web",
+                "name": "SafePal",
+                "url": "https://www.safepal.com"
+              },
+              {
+                "type": "web",
+                "name": "Trezor",
+                "url": "https://trezor.io/trezor-suite/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Hots Wallets",
+            "items": [
+              {
+                "type": "web",
+                "name": "Argent",
+                "url": "https://www.argent.xyz"
+              },
+              {
+                "type": "web",
+                "name": "Atomic Wallet",
+                "url": "https://atomicwallet.io"
+              },
+              {
+                "type": "web",
+                "name": "Coinbase Wallet",
+                "url": "https://www.coinbase.com/wallet"
+              },
+              {
+                "type": "web",
+                "name": "Exodus",
+                "url": "https://www.exodus.com"
+              },
+              {
+                "type": "web",
+                "name": "Keplr Wallet",
+                "url": "https://keplr.app"
+              },
+              {
+                "type": "web",
+                "name": "MetaMask",
+                "url": "https://metamask.io"
+              },
+              {
+                "type": "web",
+                "name": "Phantom Wallet",
+                "url": "https://phantom.app"
+              },
+              {
+                "type": "web",
+                "name": "Rabbit Wallet",
+                "url": "https://rabbitwallet.com"
+              },
+              {
+                "type": "web",
+                "name": "Rainbow Wallet",
+                "url": "https://rainbow.me"
+              },
+              {
+                "type": "web",
+                "name": "Trust Wallet",
+                "url": "https://trustwallet.com"
+              },
+              {
+                "type": "web",
+                "name": "Zengo",
+                "url": "https://zengo.com"
+              },
+              {
+                "type": "web",
+                "name": "zerion",
+                "url": "https://zerion.io"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Ressources et Outils",
+        "items": [],
+        "children": [
+          {
+            "name": "Actualités et Médias",
+            "items": [
+              {
+                "type": "web",
+                "name": "CoinDesk",
+                "url": "https://www.coindesk.com"
+              },
+              {
+                "type": "web",
+                "name": "CoinTelegraph",
+                "url": "https://cointelegraph.com"
+              },
+              {
+                "type": "web",
+                "name": "Crypto Briefing",
+                "url": "https://cryptobriefing.com"
+              },
+              {
+                "type": "web",
+                "name": "CryptoSlate",
+                "url": "https://cryptoslate.com"
+              },
+              {
+                "type": "web",
+                "name": "Decrypt",
+                "url": "https://decrypt.co"
+              },
+              {
+                "type": "web",
+                "name": "NewsBTC",
+                "url": "https://www.newsbtc.com"
+              },
+              {
+                "type": "web",
+                "name": "The Block",
+                "url": "https://www.theblock.co"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Analyse de Marché",
+            "items": [
+              {
+                "type": "web",
+                "name": "CoinGecko",
+                "url": "https://www.coingecko.com"
+              },
+              {
+                "type": "web",
+                "name": "CoinMarketCap",
+                "url": "https://coinmarketcap.com"
+              },
+              {
+                "type": "web",
+                "name": "CryptoCompare",
+                "url": "https://www.cryptocompare.com"
+              },
+              {
+                "type": "web",
+                "name": "Messari",
+                "url": "https://messari.io"
+              },
+              {
+                "type": "web",
+                "name": "Nomics",
+                "url": "https://nomics.com"
+              },
+              {
+                "type": "web",
+                "name": "TradingView (Crypto)",
+                "url": "https://www.tradingview.com/markets/cryptocurrencies/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Explorateurs de Blockchain",
+            "items": [
+              {
+                "type": "web",
+                "name": "Arbiscan",
+                "url": "https://arbiscan.io"
+              },
+              {
+                "type": "web",
+                "name": "BscScan",
+                "url": "https://bscscan.com"
+              },
+              {
+                "type": "web",
+                "name": "Etherscan",
+                "url": "https://etherscan.io"
+              },
+              {
+                "type": "web",
+                "name": "Optimistic Etherscan",
+                "url": "https://optimistic.etherscan.io"
+              },
+              {
+                "type": "web",
+                "name": "Polygonscan",
+                "url": "https://polygonscan.com"
+              },
+              {
+                "type": "web",
+                "name": "Solscan",
+                "url": "https://solscan.io"
+              },
+              {
+                "type": "web",
+                "name": "Zkscan",
+                "url": "https://zkscan.io"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Développement Blockchain",
+            "items": [
+              {
+                "type": "web",
+                "name": "Brownie Framework",
+                "url": "https://eth-brownie.readthedocs.io/en/stable/"
+              },
+              {
+                "type": "web",
+                "name": "Ethers.js",
+                "url": "https://docs.ethers.io/v5/"
+              },
+              {
+                "type": "web",
+                "name": "Hardhat",
+                "url": "https://hardhat.org"
+              },
+              {
+                "type": "web",
+                "name": "Remix IDE",
+                "url": "https://remix.ethereum.org"
+              },
+              {
+                "type": "web",
+                "name": "Solidity Lang",
+                "url": "https://soliditylang.org"
+              },
+              {
+                "type": "web",
+                "name": "Truffle Suite",
+                "url": "https://www.trufflesuite.com"
+              },
+              {
+                "type": "web",
+                "name": "Web3.js",
+                "url": "https://web3js.readthedocs.io/en/stable/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Gestion de Portefeuille et d'Analyse de Performance",
+            "items": [
+              {
+                "type": "web",
+                "name": "CoinStats",
+                "url": "https://coin-stats.com"
+              },
+              {
+                "type": "web",
+                "name": "Delta App",
+                "url": "https://delta.app"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Gestion des Clés et des Identités",
+            "items": [
+              {
+                "type": "web",
+                "name": "Authereum",
+                "url": "https://authereum.org"
+              },
+              {
+                "type": "web",
+                "name": "Civic",
+                "url": "https://www.civic.com"
+              },
+              {
+                "type": "web",
+                "name": "Gnosis Safe",
+                "url": "https://gnosis-safe.io"
+              },
+              {
+                "type": "web",
+                "name": "Portis Wallet",
+                "url": "https://www.portis.io"
+              },
+              {
+                "type": "web",
+                "name": "uPort",
+                "url": "https://www.uport.me"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Sécurité et de Confidentialité Crypto",
+            "items": [
+              {
+                "type": "web",
+                "name": "CryptoKitties (Sécurité des contrats intelligents)",
+                "url": "https://www.cryptokitties.co"
+              },
+              {
+                "type": "web",
+                "name": "MyCrypto (Wallet)",
+                "url": "https://mycrypto.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Trading et d'Analyse Technique",
+            "items": [
+              {
+                "type": "web",
+                "name": "3Commas",
+                "url": "https://3commas.io"
+              },
+              {
+                "type": "web",
+                "name": "Coinigy",
+                "url": "https://www.coinigy.com"
+              },
+              {
+                "type": "web",
+                "name": "CryptoCompare Portfolio",
+                "url": "https://www.cryptocompare.com/portfolio/"
+              },
+              {
+                "type": "web",
+                "name": "Cryptohopper",
+                "url": "https://www.cryptohopper.com"
+              },
+              {
+                "type": "web",
+                "name": "TradingView",
+                "url": "https://www.tradingview.com/markets/cryptocurrencies/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Échanges",
+        "items": [],
+        "children": [
+          {
+            "name": "Centralisés (CEX)",
+            "items": [
+              {
+                "type": "web",
+                "name": "Binance",
+                "url": "https://www.binance.com"
+              },
+              {
+                "type": "web",
+                "name": "Bitfinex",
+                "url": "https://www.bitfinex.com"
+              },
+              {
+                "type": "web",
+                "name": "Bitget",
+                "url": "https://www.bitget.com"
+              },
+              {
+                "type": "web",
+                "name": "Bybit",
+                "url": "https://www.bybit.com"
+              },
+              {
+                "type": "web",
+                "name": "Coinbase",
+                "url": "https://www.coinbase.com"
+              },
+              {
+                "type": "web",
+                "name": "Gate.io",
+                "url": "https://www.gate.io"
+              },
+              {
+                "type": "web",
+                "name": "Huobi",
+                "url": "https://www.huobi.com"
+              },
+              {
+                "type": "web",
+                "name": "Kraken",
+                "url": "https://www.kraken.com"
+              },
+              {
+                "type": "web",
+                "name": "KuCoin",
+                "url": "https://www.kucoin.com"
+              },
+              {
+                "type": "web",
+                "name": "OKEx",
+                "url": "https://www.okex.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Décentralisés (DEX)",
+            "items": [
+              {
+                "type": "web",
+                "name": "1inch Exchange",
+                "url": "https://1inch.io"
+              },
+              {
+                "type": "web",
+                "name": "Balancer",
+                "url": "https://balancer.finance"
+              },
+              {
+                "type": "web",
+                "name": "Biswap",
+                "url": "https://biswap.org"
+              },
+              {
+                "type": "web",
+                "name": "Curve Finance",
+                "url": "https://curve.fi"
+              },
+              {
+                "type": "web",
+                "name": "dYdX",
+                "url": "https://dydx.exchange"
+              },
+              {
+                "type": "web",
+                "name": "Osmosis",
+                "url": "https://osmosis.zone"
+              },
+              {
+                "type": "web",
+                "name": "PancakeSwap",
+                "url": "https://pancakeswap.finance"
+              },
+              {
+                "type": "web",
+                "name": "QuickSwap",
+                "url": "https://quickswap.exchange"
+              },
+              {
+                "type": "web",
+                "name": "Raydium",
+                "url": "https://raydium.io"
+              },
+              {
+                "type": "web",
+                "name": "SushiSwap",
+                "url": "https://sushi.com"
+              },
+              {
+                "type": "web",
+                "name": "Synthetix",
+                "url": "https://www.synthetix.io"
+              },
+              {
+                "type": "web",
+                "name": "Uniswap",
+                "url": "https://uniswap.org"
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Développement",
+    "items": [],
+    "children": [
+      {
+        "name": "Applications & Logiciels",
+        "items": [],
+        "children": [
+          {
+            "name": "Gestionnaires de Paquets",
+            "items": [
+              {
+                "type": "web",
+                "name": "Composer",
+                "url": "https://getcomposer.org/download/"
+              },
+              {
+                "type": "web",
+                "name": "npm",
+                "url": "https://www.npmjs.com/get-npm"
+              },
+              {
+                "type": "web",
+                "name": "Pip",
+                "url": "https://pip.pypa.io/en/stable/installation/"
+              },
+              {
+                "type": "web",
+                "name": "Yarn",
+                "url": "https://yarnpkg.com/getting-started/install"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "IDE & Éditeurs de code",
+            "items": [
+              {
+                "type": "web",
+                "name": "Android Studio",
+                "url": "https://developer.android.com/studio"
+              },
+              {
+                "type": "web",
+                "name": "VS Code",
+                "url": "https://code.visualstudio.com/download"
+              },
+              {
+                "type": "web",
+                "name": "WebStorm _ PhpStorm",
+                "url": "https://www.jetbrains.com/webstorm/download/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Débogage",
+            "items": [
+              {
+                "type": "web",
+                "name": "Docker",
+                "url": "https://www.docker.com/products/docker-desktop"
+              },
+              {
+                "type": "web",
+                "name": "Fiddler",
+                "url": "https://www.telerik.com/fiddler/download"
+              },
+              {
+                "type": "web",
+                "name": "Postman",
+                "url": "https://www.postman.com/downloads/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Versioning",
+            "items": [
+              {
+                "type": "web",
+                "name": "Git",
+                "url": "https://git-scm.com/downloads"
+              },
+              {
+                "type": "web",
+                "name": "GitHub Desktop",
+                "url": "https://desktop.github.com"
+              },
+              {
+                "type": "web",
+                "name": "GitHub",
+                "url": "https://github.com"
+              },
+              {
+                "type": "web",
+                "name": "GitLab",
+                "url": "https://gitlab.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Simulateurs & Émulateurs",
+            "items": [
+              {
+                "type": "web",
+                "name": "Android Emulator",
+                "url": "https://developer.android.com/studio/run/emulator"
+              },
+              {
+                "type": "web",
+                "name": "Bluestacks",
+                "url": "https://www.bluestacks.com/download.html"
+              },
+              {
+                "type": "web",
+                "name": "Genymotion",
+                "url": "https://www.genymotion.com/download/"
+              },
+              {
+                "type": "web",
+                "name": "iOS Simulator",
+                "url": "https://developer.apple.com/documentation/xcode/running-your-app-in-the-simulator-or-on-a-device"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bureau",
+        "items": [],
+        "children": [
+          {
+            "name": "Gestion de Projet et Collaboration",
+            "items": [
+              {
+                "type": "web",
+                "name": "Asana",
+                "url": "https://asana.com"
+              },
+              {
+                "type": "web",
+                "name": "Slack",
+                "url": "https://slack.com"
+              },
+              {
+                "type": "web",
+                "name": "Trello",
+                "url": "https://trello.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Communication et Visioconférence",
+            "items": [
+              {
+                "type": "web",
+                "name": "Discord (Bureau)",
+                "url": "https://discord.com/download"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Teams",
+                "url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"
+              },
+              {
+                "type": "web",
+                "name": "Zoom",
+                "url": "https://zoom.us"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Productivité",
+            "items": [
+              {
+                "type": "web",
+                "name": "Google Workspace",
+                "url": "https://workspace.google.com/"
+              },
+              {
+                "type": "web",
+                "name": "LibreOffice",
+                "url": "https://www.libreoffice.org/download/download/"
+              },
+              {
+                "type": "web",
+                "name": "Microsoft Office",
+                "url": "https://www.microsoft.com/en-us/microsoft-365"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "dApps & Blockchain",
+        "items": [],
+        "children": [
+          {
+            "name": "Explorateurs de Blockchain",
+            "items": [
+              {
+                "type": "web",
+                "name": "Blockchair",
+                "url": "https://blockchair.com"
+              },
+              {
+                "type": "web",
+                "name": "BscScan",
+                "url": "https://bscscan.com"
+              },
+              {
+                "type": "web",
+                "name": "Etherscan",
+                "url": "https://etherscan.io"
+              },
+              {
+                "type": "web",
+                "name": "OKLink",
+                "url": "https://www.oklink.com"
+              },
+              {
+                "type": "web",
+                "name": "Polygonscan",
+                "url": "https://polygonscan.com"
+              },
+              {
+                "type": "web",
+                "name": "Solscan",
+                "url": "https://solscan.io"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de développement blockchain",
+            "items": [
+              {
+                "type": "web",
+                "name": "Hardhat",
+                "url": "https://hardhat.org/getting-started/"
+              },
+              {
+                "type": "web",
+                "name": "Remix IDE",
+                "url": "https://remix.ethereum.org"
+              },
+              {
+                "type": "web",
+                "name": "Truffle Suite",
+                "url": "https://www.trufflesuite.com/truffle"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Ressources et Communautés",
+            "items": [
+              {
+                "type": "web",
+                "name": "CryptoCompare",
+                "url": "https://www.cryptocompare.com/"
+              },
+              {
+                "type": "web",
+                "name": "Ethereum Foundation",
+                "url": "https://ethereum.org/en/foundation/"
+              },
+              {
+                "type": "web",
+                "name": "Solidity Documentation",
+                "url": "https://docs.soliditylang.org/en/v0.8.0/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Wallets & Intégrations",
+            "items": [
+              {
+                "type": "web",
+                "name": "Ledger Live",
+                "url": "https://www.ledger.com/ledger-live"
+              },
+              {
+                "type": "web",
+                "name": "MetaMask",
+                "url": "https://metamask.io/download.html"
+              },
+              {
+                "type": "web",
+                "name": "WalletConnect",
+                "url": "https://walletconnect.org/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Documentations Indispensables",
+        "items": [],
+        "children": [
+          {
+            "name": "Backend",
+            "items": [],
+            "children": [
+              {
+                "name": "APIs",
+                "items": [
+                  {
+                    "type": "web",
+                    "name": "Firebase Documentation",
+                    "url": "https://firebase.google.com/docs"
+                  },
+                  {
+                    "type": "web",
+                    "name": "GraphQL Documentation",
+                    "url": "https://graphql.org/learn/"
+                  },
+                  {
+                    "type": "web",
+                    "name": "Node.js",
+                    "url": "https://nodejs.org/en/docs/"
+                  },
+                  {
+                    "type": "web",
+                    "name": "REST API Documentation",
+                    "url": "https://restfulapi.net/"
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Blockchains",
+            "items": [],
+            "children": [
+              {
+                "name": "dApps et Crypto",
+                "items": [
+                  {
+                    "type": "web",
+                    "name": "Ethereum Documentation",
+                    "url": "https://ethereum.org/en/developers/docs/"
+                  },
+                  {
+                    "type": "web",
+                    "name": "IPFS Documentation",
+                    "url": "https://docs.ipfs.io/"
+                  },
+                  {
+                    "type": "web",
+                    "name": "Solidity Documentation",
+                    "url": "https://docs.soliditylang.org/en/v0.8.0/"
+                  },
+                  {
+                    "type": "web",
+                    "name": "Web3.js Documentation",
+                    "url": "https://web3js.readthedocs.io/en/v1.5.2/"
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Frameworks et Bibliothèques",
+            "items": [
+              {
+                "type": "web",
+                "name": "Angular Documentation",
+                "url": "https://angular.io/docs"
+              },
+              {
+                "type": "web",
+                "name": "Django Documentation",
+                "url": "https://docs.djangoproject.com/en/stable/"
+              },
+              {
+                "type": "web",
+                "name": "React Documentation",
+                "url": "https://reactjs.org/docs/getting-started.html"
+              },
+              {
+                "type": "web",
+                "name": "Vue.js Documentation",
+                "url": "https://vuejs.org/v2/guide/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Langages de Programmation",
+            "items": [
+              {
+                "type": "web",
+                "name": "Documentation C#",
+                "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+              },
+              {
+                "type": "web",
+                "name": "Documentation C++",
+                "url": "https://en.cppreference.com/w/"
+              },
+              {
+                "type": "web",
+                "name": "Documentation Go",
+                "url": "https://golang.org/doc/"
+              },
+              {
+                "type": "web",
+                "name": "Documentation Java",
+                "url": "https://docs.oracle.com/javase/8/docs/api/"
+              },
+              {
+                "type": "web",
+                "name": "Documentation JavaScript",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+              },
+              {
+                "type": "web",
+                "name": "Documentation PHP",
+                "url": "https://www.php.net/docs.php"
+              },
+              {
+                "type": "web",
+                "name": "Documentation Python",
+                "url": "https://docs.python.org/3/"
+              },
+              {
+                "type": "web",
+                "name": "Documentation Ruby",
+                "url": "https://www.ruby-lang.org/en/documentation/"
+              },
+              {
+                "type": "web",
+                "name": "Documentation Rust",
+                "url": "https://doc.rust-lang.org/"
+              },
+              {
+                "type": "web",
+                "name": "Documentation Sass",
+                "url": "https://sass-lang.com/documentation"
+              },
+              {
+                "type": "web",
+                "name": "Documentation Tailwind CSS",
+                "url": "https://tailwindcss.com/docs"
+              },
+              {
+                "type": "web",
+                "name": "Documentation TypeScript",
+                "url": "https://www.typescriptlang.org/docs/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Mobile et IoT",
+            "items": [
+              {
+                "type": "web",
+                "name": "Android Developer Documentation",
+                "url": "https://developer.android.com/docs"
+              },
+              {
+                "type": "web",
+                "name": "Flutter Documentation",
+                "url": "https://flutter.dev/docs"
+              },
+              {
+                "type": "web",
+                "name": "iOS Developer Documentation",
+                "url": "https://developer.apple.com/documentation/"
+              },
+              {
+                "type": "web",
+                "name": "React Native",
+                "url": "https://reactnative.dev/docs/getting-started"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils et Technologies",
+            "items": [
+              {
+                "type": "web",
+                "name": "Docker Documentation",
+                "url": "https://docs.docker.com/"
+              },
+              {
+                "type": "web",
+                "name": "Git Documentation",
+                "url": "https://git-scm.com/doc"
+              },
+              {
+                "type": "web",
+                "name": "Kubernetes Documentation",
+                "url": "https://kubernetes.io/docs/home/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Gaming",
+        "items": [],
+        "children": [
+          {
+            "name": "Outils de Design de Jeux",
+            "items": [
+              {
+                "type": "web",
+                "name": "Aseprite",
+                "url": "https://www.aseprite.org/download/"
+              },
+              {
+                "type": "web",
+                "name": "Spine",
+                "url": "https://esotericsoftware.com/spine-download"
+              },
+              {
+                "type": "web",
+                "name": "Tiled Map Editor",
+                "url": "https://www.mapeditor.org"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Développement de Jeux",
+            "items": [
+              {
+                "type": "web",
+                "name": "Godot Engine",
+                "url": "https://godotengine.org/download"
+              },
+              {
+                "type": "web",
+                "name": "Unity",
+                "url": "https://unity.com/download"
+              },
+              {
+                "type": "web",
+                "name": "Unreal Engine",
+                "url": "https://www.unrealengine.com/en-US/download"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Streaming et de Capture",
+            "items": [
+              {
+                "type": "web",
+                "name": "NVIDIA ShadowPlay",
+                "url": "https://www.nvidia.com/en-us/geforce/geforce-experience/shadowplay/"
+              },
+              {
+                "type": "web",
+                "name": "OBS Studio",
+                "url": "https://obsproject.com/download"
+              },
+              {
+                "type": "web",
+                "name": "Streamlabs",
+                "url": "https://streamlabs.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Test de Jeux",
+            "items": [
+              {
+                "type": "web",
+                "name": "Appium for Games",
+                "url": "https://appium.io/docs/en/writing-running-appium/other/appium-for-games/"
+              },
+              {
+                "type": "web",
+                "name": "TestComplete",
+                "url": "https://smartbear.com/product/testcomplete/overview/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Ressources et Communautés de Jeux",
+            "items": [
+              {
+                "type": "web",
+                "name": "Game Jolt",
+                "url": "https://gamejolt.com"
+              },
+              {
+                "type": "web",
+                "name": "GameDev.net",
+                "url": "https://www.gamedev.net"
+              },
+              {
+                "type": "web",
+                "name": "Reddit GameDev Community",
+                "url": "https://www.reddit.com/r/gamedev/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Intelligence Artificielle",
+        "items": [],
+        "children": [
+          {
+            "name": "Outils de Développement IA",
+            "items": [
+              {
+                "type": "web",
+                "name": "Google AI Platform",
+                "url": "https://cloud.google.com/ai-platform/docs"
+              },
+              {
+                "type": "web",
+                "name": "Hugging Face",
+                "url": "https://huggingface.co/docs"
+              },
+              {
+                "type": "web",
+                "name": "OpenAI API",
+                "url": "https://platform.openai.com/docs"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Ressources et Communautés IA",
+            "items": [
+              {
+                "type": "web",
+                "name": "AI Stack Exchange",
+                "url": "https://ai.stackexchange.com"
+              },
+              {
+                "type": "web",
+                "name": "Kaggle",
+                "url": "https://www.kaggle.com"
+              },
+              {
+                "type": "web",
+                "name": "Towards Data Science",
+                "url": "https://towardsdatascience.com"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Mobile",
+        "items": [],
+        "children": [
+          {
+            "name": "Outils de Design Mobile",
+            "items": [
+              {
+                "type": "web",
+                "name": "Adobe XD",
+                "url": "https://www.adobe.com/products/xd.html"
+              },
+              {
+                "type": "web",
+                "name": "Figma",
+                "url": "https://www.figma.com"
+              },
+              {
+                "type": "web",
+                "name": "Sketch",
+                "url": "https://www.sketch.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Développement Mobile",
+            "items": [
+              {
+                "type": "web",
+                "name": "Android Studio",
+                "url": "https://developer.android.com/studio"
+              },
+              {
+                "type": "web",
+                "name": "Flutter SDK",
+                "url": "https://flutter.dev/docs/get-started/install"
+              },
+              {
+                "type": "web",
+                "name": "Xcode",
+                "url": "https://developer.apple.com/xcode/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Test Mobile",
+            "items": [
+              {
+                "type": "web",
+                "name": "Appium",
+                "url": "https://appium.io/"
+              },
+              {
+                "type": "web",
+                "name": "BrowserStack",
+                "url": "https://www.browserstack.com"
+              },
+              {
+                "type": "web",
+                "name": "Firebase Test Lab",
+                "url": "https://firebase.google.com/docs/test-lab"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Ressources et Communautés Mobiles",
+            "items": [
+              {
+                "type": "web",
+                "name": "Android Developers",
+                "url": "https://developer.android.com/docs"
+              },
+              {
+                "type": "web",
+                "name": "iOS Developer Documentation",
+                "url": "https://developer.apple.com/documentation/"
+              },
+              {
+                "type": "web",
+                "name": "React Native Community",
+                "url": "https://reactnative.dev/community"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Portails Développeurs",
+        "items": [
+          {
+            "type": "web",
+            "name": "Amazon Web Services",
+            "url": "https://aws.amazon.com/developer/"
+          },
+          {
+            "type": "web",
+            "name": "Android Developers",
+            "url": "https://developer.android.com"
+          },
+          {
+            "type": "web",
+            "name": "Apple Developer",
+            "url": "https://developer.apple.com"
+          },
+          {
+            "type": "web",
+            "name": "Arbitrum Developer",
+            "url": "https://developer.arbitrum.io"
+          },
+          {
+            "type": "web",
+            "name": "Avalanche Developer",
+            "url": "https://docs.avax.network/"
+          },
+          {
+            "type": "web",
+            "name": "Binance Developer",
+            "url": "https://developers.binance.com/en"
+          },
+          {
+            "type": "web",
+            "name": "Binance Smart Chain Developer",
+            "url": "https://docs.binance.org/smart-chain/developer/"
+          },
+          {
+            "type": "web",
+            "name": "Coinbase Developer",
+            "url": "https://developers.coinbase.com"
+          },
+          {
+            "type": "web",
+            "name": "CoinGecko Developer",
+            "url": "https://www.coingecko.com/en/api"
+          },
+          {
+            "type": "web",
+            "name": "CoinMarketCap Developer",
+            "url": "https://coinmarketcap.com/api/"
+          },
+          {
+            "type": "web",
+            "name": "Cosmos Developer",
+            "url": "https://docs.cosmos.network/"
+          },
+          {
+            "type": "web",
+            "name": "Discord Developer",
+            "url": "https://discord.com/developers"
+          },
+          {
+            "type": "web",
+            "name": "Ethereum Developer",
+            "url": "https://ethereum.org/en/developers/"
+          },
+          {
+            "type": "web",
+            "name": "Ethers.js Developer",
+            "url": "https://docs.ethers.io/v5/"
+          },
+          {
+            "type": "web",
+            "name": "Facebook Developer",
+            "url": "https://developers.facebook.com"
+          },
+          {
+            "type": "web",
+            "name": "GitHub",
+            "url": "https://github.com"
+          },
+          {
+            "type": "web",
+            "name": "GitLab",
+            "url": "https://gitlab.com"
+          },
+          {
+            "type": "web",
+            "name": "Google Developers",
+            "url": "https://developers.google.com"
+          },
+          {
+            "type": "web",
+            "name": "IBM Developer",
+            "url": "https://developer.ibm.com/"
+          },
+          {
+            "type": "web",
+            "name": "Kick Developer",
+            "url": "https://kick.com/settings/developer"
+          },
+          {
+            "type": "web",
+            "name": "LinkedIn Developer",
+            "url": "https://www.linkedin.com/developers"
+          },
+          {
+            "type": "web",
+            "name": "Microsoft Developer Network",
+            "url": "https://docs.microsoft.com"
+          },
+          {
+            "type": "web",
+            "name": "MoonPay Developer",
+            "url": "https://dashboard.moonpay.com/login"
+          },
+          {
+            "type": "web",
+            "name": "Mozilla Developer Network",
+            "url": "https://developer.mozilla.org"
+          },
+          {
+            "type": "web",
+            "name": "Ngrok Dashboard",
+            "url": "https://dashboard.ngrok.com"
+          },
+          {
+            "type": "web",
+            "name": "Optimism Developer",
+            "url": "https://community.optimism.io/docs/developers/"
+          },
+          {
+            "type": "web",
+            "name": "Oracle Developer",
+            "url": "https://developer.oracle.com"
+          },
+          {
+            "type": "web",
+            "name": "PayPal Developer",
+            "url": "https://developer.paypal.com"
+          },
+          {
+            "type": "web",
+            "name": "Polygon Developer",
+            "url": "https://polygon.technology/developers/"
+          },
+          {
+            "type": "web",
+            "name": "Reddit Developer",
+            "url": "https://www.redditinc.com/developers"
+          },
+          {
+            "type": "web",
+            "name": "Solana Developer",
+            "url": "https://solana.com/developers"
+          },
+          {
+            "type": "web",
+            "name": "Solidity Developer",
+            "url": "https://docs.soliditylang.org/en/latest/"
+          },
+          {
+            "type": "web",
+            "name": "Stack Overflow",
+            "url": "https://stackoverflow.com"
+          },
+          {
+            "type": "web",
+            "name": "Stripe Developer",
+            "url": "https://stripe.com/docs/development"
+          },
+          {
+            "type": "web",
+            "name": "Tiktok Developer",
+            "url": "https://developers.tiktok.com"
+          },
+          {
+            "type": "web",
+            "name": "Transak Developer",
+            "url": "https://dashboard.transak.com/login"
+          },
+          {
+            "type": "web",
+            "name": "Twitch Developer",
+            "url": "https://dev.twitch.tv/console"
+          },
+          {
+            "type": "web",
+            "name": "W3Schools",
+            "url": "https://www.w3schools.com"
+          },
+          {
+            "type": "web",
+            "name": "Web3.js Developer",
+            "url": "https://web3js.readthedocs.io/en/stable/"
+          },
+          {
+            "type": "web",
+            "name": "X (ex Twitter) Developer",
+            "url": "https://developer.x.com"
+          }
+        ],
+        "children": []
+      },
+      {
+        "name": "Sécurité et Outils de Test",
+        "items": [],
+        "children": [
+          {
+            "name": "Cryptographie et Chiffrement",
+            "items": [
+              {
+                "type": "web",
+                "name": "GnuPG",
+                "url": "https://gnupg.org/download/"
+              },
+              {
+                "type": "web",
+                "name": "Hashcat",
+                "url": "https://hashcat.net/hashcat/"
+              },
+              {
+                "type": "web",
+                "name": "OpenSSL",
+                "url": "https://www.openssl.org/source/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Générateurs de Mots de Passe & Gestionnaires",
+            "items": [
+              {
+                "type": "web",
+                "name": "1Password",
+                "url": "https://1password.com"
+              },
+              {
+                "type": "web",
+                "name": "Bitwarden",
+                "url": "https://bitwarden.com"
+              },
+              {
+                "type": "web",
+                "name": "KeePassXC",
+                "url": "https://keepassxc.org/download/"
+              },
+              {
+                "type": "web",
+                "name": "LastPass",
+                "url": "https://www.lastpass.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Développement Sécurisé",
+            "items": [
+              {
+                "type": "web",
+                "name": "Dependabot",
+                "url": "https://dependabot.com"
+              },
+              {
+                "type": "web",
+                "name": "Snyk",
+                "url": "https://snyk.io"
+              },
+              {
+                "type": "web",
+                "name": "SonarQube",
+                "url": "https://www.sonarqube.org/downloads/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Outils de Test",
+            "items": [
+              {
+                "type": "web",
+                "name": "JMeter",
+                "url": "https://jmeter.apache.org/download_jmeter.cgi"
+              },
+              {
+                "type": "web",
+                "name": "Postman",
+                "url": "https://www.postman.com/downloads/"
+              },
+              {
+                "type": "web",
+                "name": "Selenium",
+                "url": "https://www.selenium.dev/downloads/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Plateformes de Bug Bounty",
+            "items": [
+              {
+                "type": "web",
+                "name": "Bugcrowd",
+                "url": "https://www.bugcrowd.com"
+              },
+              {
+                "type": "web",
+                "name": "HackerOne",
+                "url": "https://www.hackerone.com"
+              },
+              {
+                "type": "web",
+                "name": "Synack",
+                "url": "https://www.synack.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Ressources de Sécurité",
+            "items": [
+              {
+                "type": "web",
+                "name": "CVE Details",
+                "url": "https://www.cvedetails.com"
+              },
+              {
+                "type": "web",
+                "name": "Cybermalveillance.gouv.fr",
+                "url": "https://www.cybermalveillance.gouv.fr"
+              },
+              {
+                "type": "web",
+                "name": "GitHub Security Lab",
+                "url": "https://securitylab.github.com"
+              },
+              {
+                "type": "web",
+                "name": "Hack The Box",
+                "url": "https://www.hackthebox.eu"
+              },
+              {
+                "type": "web",
+                "name": "Kali Linux",
+                "url": "https://www.kali.org"
+              },
+              {
+                "type": "web",
+                "name": "Metasploit",
+                "url": "https://www.metasploit.com"
+              },
+              {
+                "type": "web",
+                "name": "OWASP",
+                "url": "https://owasp.org"
+              },
+              {
+                "type": "web",
+                "name": "SecurityFocus",
+                "url": "https://www.securityfocus.com"
+              },
+              {
+                "type": "web",
+                "name": "TryHackMe",
+                "url": "https://tryhackme.com"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Réseaux et Surveillance",
+            "items": [
+              {
+                "type": "web",
+                "name": "Netcat",
+                "url": "https://netcat.sourceforge.io/"
+              },
+              {
+                "type": "web",
+                "name": "Nmap",
+                "url": "https://nmap.org/download.html"
+              },
+              {
+                "type": "web",
+                "name": "Tcpdump",
+                "url": "https://www.tcpdump.org/#latest-release"
+              },
+              {
+                "type": "web",
+                "name": "Wireshark",
+                "url": "https://www.wireshark.org/download.html"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Sécurité et Audits",
+            "items": [
+              {
+                "type": "web",
+                "name": "Burp Suite",
+                "url": "https://portswigger.net/burp/releases"
+              },
+              {
+                "type": "web",
+                "name": "OWASP ZAP",
+                "url": "https://www.zaproxy.org/download/"
+              },
+              {
+                "type": "web",
+                "name": "Wireshark",
+                "url": "https://www.wireshark.org/download.html"
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gaming",
+    "items": [],
+    "children": [
+      {
+        "name": "Jeux de Rôle (RPG)",
+        "items": [],
+        "children": [
+          {
+            "name": "Jeux de Rôle en Ligne Multijoueur (MMORPG)",
+            "items": [
+              {
+                "type": "web",
+                "name": "Final Fantasy XIV",
+                "url": "https://na.finalfantasyxiv.com"
+              },
+              {
+                "type": "web",
+                "name": "World of Warcraft",
+                "url": "https://worldofwarcraft.com/en-us/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Jeux de Rôle Solo",
+            "items": [
+              {
+                "type": "web",
+                "name": "Skyrim",
+                "url": "https://elderscrolls.bethesda.net/en/skyrim"
+              },
+              {
+                "type": "web",
+                "name": "The Witcher 3",
+                "url": "https://thewitcher.com/en/witcher3"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Jeux de Sport",
+        "items": [],
+        "children": [
+          {
+            "name": "Jeux de Basketball",
+            "items": [
+              {
+                "type": "web",
+                "name": "NBA 2K23",
+                "url": "https://www.nba2k.com/2k23"
+              },
+              {
+                "type": "web",
+                "name": "NBA Live 19",
+                "url": "https://www.ea.com/games/nba-live/nba-live-19"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Jeux de Course Auto",
+            "items": [
+              {
+                "type": "web",
+                "name": "Forza Horizon 5",
+                "url": "https://www.forzamotorsport.net/en-us/games/fh5"
+              },
+              {
+                "type": "web",
+                "name": "Gran Turismo 7",
+                "url": "https://www.gran-turismo.com/us/gtsport/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Jeux de Football",
+            "items": [
+              {
+                "type": "web",
+                "name": "FIFA 23",
+                "url": "https://www.ea.com/games/fifa/fifa-23"
+              },
+              {
+                "type": "web",
+                "name": "PES 2023",
+                "url": "https://www.konami.com/games/pes/2023/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Jeux de Stratégie",
+        "items": [],
+        "children": [
+          {
+            "name": "Jeux de Stratégie au Tour par Tour",
+            "items": [
+              {
+                "type": "web",
+                "name": "Civilization VI",
+                "url": "https://civilization.com/en-us/civilization-vi/"
+              },
+              {
+                "type": "web",
+                "name": "XCOM 2",
+                "url": "https://xcom.com/en-us/xcom-2/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Jeux de Stratégie en Temps Réel",
+            "items": [
+              {
+                "type": "web",
+                "name": "Age of Empires IV",
+                "url": "https://www.ageofempires.com/games/age-of-empires-iv/"
+              },
+              {
+                "type": "web",
+                "name": "StarCraft II",
+                "url": "https://starcraft2.com/en-us/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Jeux Vidéo",
+        "items": [],
+        "children": [
+          {
+            "name": "Jeux Console",
+            "items": [],
+            "children": [
+              {
+                "name": "PC",
+                "items": [
+                  {
+                    "type": "web",
+                    "name": "Cyberpunk 2077",
+                    "url": "https://www.cyberpunk.net/en"
+                  },
+                  {
+                    "type": "web",
+                    "name": "Red Dead Redemption 2",
+                    "url": "https://www.rockstargames.com/games/reddeadredemption2"
+                  },
+                  {
+                    "type": "web",
+                    "name": "The Elder Scrolls V_ Skyrim",
+                    "url": "https://elderscrolls.bethesda.net/en/skyrim"
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Jeux en Ligne",
+            "items": [
+              {
+                "type": "web",
+                "name": "Fortnite",
+                "url": "https://www.epicgames.com/fortnite/en-US/home"
+              },
+              {
+                "type": "web",
+                "name": "League of Legends",
+                "url": "https://www.riotgames.com/en-US/games/league-of-legends"
+              },
+              {
+                "type": "web",
+                "name": "World of Warcraft",
+                "url": "https://worldofwarcraft.com/en-us/"
+              }
+            ],
+            "children": []
+          },
+          {
+            "name": "Jeux Mobiles",
+            "items": [
+              {
+                "type": "web",
+                "name": "Clash of Clans",
+                "url": "https://www.supercell.com/en/games/clashofclans/"
+              },
+              {
+                "type": "web",
+                "name": "Genshin Impact (Mobile)",
+                "url": "https://genshin.mihoyo.com/en"
+              },
+              {
+                "type": "web",
+                "name": "PUBG Mobile",
+                "url": "https://www.pubgmobile.com/en/"
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Launchers de Jeux",
+        "items": [],
+        "children": [
+          {
+            "name": "Battle.net",
+            "items": [],
+            "children": []
+          },
+          {
+            "name": "Epic Games Store",
+            "items": [],
+            "children": []
+          },
+          {
+            "name": "GOG Galaxy",
+            "items": [],
+            "children": []
+          },
+          {
+            "name": "itch.io",
+            "items": [],
+            "children": []
+          },
+          {
+            "name": "Origin (EA)",
+            "items": [],
+            "children": []
+          },
+          {
+            "name": "Steam",
+            "items": [],
+            "children": []
+          },
+          {
+            "name": "Ubisoft Connect",
+            "items": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Personnalisé",
+    "items": [],
+    "children": []
+  }
+]

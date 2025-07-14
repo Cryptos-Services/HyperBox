@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "resolutions": {
+    "@web3-storage/access": "18.0.0",
+    "@web3-storage/w3up-client": "15.0.0",
+    "@ucanto/principal": "7.0.0"
+  },
+  "dependencies": {
+    "@ucanto/principal": "7.0.0",
+    "@web3-storage/access": "^20.3.0",
+    "@web3-storage/w3up-client": "15.0.0"
+  }
+}

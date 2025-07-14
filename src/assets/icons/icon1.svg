@@ -1,0 +1,47 @@
+<svg
+          width="256"
+          height="256"
+          viewBox="0 0 256 256"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle cx="128" cy="128" r="128" fill="#030121" />
+          <g>
+            <circle
+              cx="128"
+              cy="128"
+              r="82"
+              fill="#1B1450"
+              stroke="#FFDE59"
+              stroke-width="5"
+            />
+            <circle
+              cx="128"
+              cy="128"
+              r="54"
+              fill="#241A60"
+              stroke="#A27BFE"
+              stroke-width="3"
+            />
+            <circle
+              cx="128"
+              cy="128"
+              r="28"
+              fill="#FFDE59"
+              fill-opacity="0.18"
+              stroke="#FFDE59"
+              stroke-width="2"
+            />
+            <text
+              x="128"
+              y="147"
+              text-anchor="middle"
+              font-family="Segoe UI, Arial, sans-serif"
+              font-size="64"
+              font-weight="bold"
+              fill="#FFDE59"
+            >
+              H
+            </text>
+          </g>
+        </svg>

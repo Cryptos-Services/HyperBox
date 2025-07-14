@@ -1,0 +1,154 @@
+{
+  "name": "hyperbox",
+  "productName": "HyperBox",
+  "version": "1.0.0",
+  "description": "HyperBox - Gestionnaire d'applications modulaire",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "dev": "vite",
+    "build": "vite build",
+    "use-node": "nvm use",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "dist": "npm run build && electron-builder",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\"",
+    "dist-forge": "npm run build && npm run make",
+    "postbuild": "copy public\\preload.js dist\\preload.js"
+  },
+  "keywords": [],
+  "author": "Hyper-Cryptos <cryptosservices62@gmail.com>",
+  "license": "MIT",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "electron",
+      "electron-winstaller"
+    ]
+  },
+  "dependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@hello-pangea/dnd": "^18.0.1",
+    "@ucanto/principal": "^7.0.0",
+    "@web3-storage/access": "^20.3.0",
+    "@web3-storage/w3up-client": "^15.0.0",
+    "adm-zip": "^0.5.16",
+    "arweave": "^1.15.7",
+    "aws-sdk": "^2.1692.0",
+    "axios": "^1.10.0",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.0.0",
+    "dropbox": "^10.34.0",
+    "electron-squirrel-startup": "^1.0.1",
+    "googleapis": "^150.0.1",
+    "jose": "^6.0.11",
+    "onedrive-api": "^1.1.1",
+    "open": "^10.1.2",
+    "react": "^19.1.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "^19.1.0",
+    "react-selectable-box": "^1.10.0",
+    "react-selectable-fast": "^3.4.0",
+    "web3.storage": "^4.5.5"
+  },
+  "resolutions": {
+    "@web3-storage/w3up-client": "15.0.0",
+    "@ucanto/principal": "7.0.0",
+    "@ipld/car": "2.10.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^7.8.1",
+    "@electron-forge/maker-deb": "^7.8.1",
+    "@electron-forge/maker-rpm": "^7.8.1",
+    "@electron-forge/maker-squirrel": "^7.8.1",
+    "@electron-forge/maker-wix": "^7.8.1",
+    "@electron-forge/maker-zip": "^7.8.1",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.8.1",
+    "@electron-forge/plugin-fuses": "^7.8.1",
+    "@electron/fuses": "^1.8.0",
+    "@tailwindcss/postcss": "^4.1.8",
+    "@types/crypto-js": "^4.2.2",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.5.0",
+    "autoprefixer": "^10.4.21",
+    "electron": "36.3.2",
+    "electron-builder": "^26.0.12",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^4.1.8",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  },
+  "build": {
+    "appId": "com.hyperbox.app",
+    "productName": "HyperBox",
+    "directories": {
+      "output": "release",
+      "buildResources": "build"
+    },
+    "files": [
+      "dist/**/*",
+      "src/index.js",
+      "public/preload.js",
+      "!**/node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}",
+      "!**/node_modules/*/{test,__tests__,tests,powered-test,example,examples}",
+      "!**/node_modules/*.d.ts",
+      "!**/node_modules/.bin",
+      "!**/*.{iml,o,hprof,orig,pyc,pyo,rbc,swp,csproj,sln,xproj}",
+      "!.editorconfig",
+      "!**/._*",
+      "!**/{.DS_Store,.git,.hg,.svn,CVS,RCS,SCCS,.gitignore,.gitattributes}",
+      "!**/{__pycache__,thumbs.db,.flowconfig,.idea,.vs,.nyc_output}",
+      "!**/{appveyor.yml,.travis.yml,circle.yml}",
+      "!**/{npm-debug.log,yarn.lock,.yarn-integrity,.yarn-metadata.json}",
+      "!.env",
+      "!**/HyperBoxSav*",
+      "!**/HyperBox_backup*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "src/assets/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "allowElevation": true,
+      "installerIcon": "src/assets/icon.ico",
+      "uninstallerIcon": "src/assets/icon.ico",
+      "installerHeaderIcon": "src/assets/icon.ico",
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "HyperBox",
+      "uninstallDisplayName": "HyperBox",
+      "license": null,
+      "artifactName": "HyperBox-Setup-${version}.${ext}",
+      "deleteAppDataOnUninstall": false,
+      "displayLanguageSelector": false,
+      "installerLanguages": [
+        "en_US"
+      ],
+      "warningsAsErrors": false,
+      "perMachine": false
+    },
+    "portable": {
+      "artifactName": "HyperBox-Portable-${version}.${ext}"
+    }
+  },
+  "type": "commonjs",
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}

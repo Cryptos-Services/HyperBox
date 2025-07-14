@@ -47,6 +47,7 @@ Grâce à HyperBox, organisez vos raccourcis par catégories (Développement, Cr
 
 ---
 
+<<<<<<< HEAD
 ### 🌴 Arborescence 
 
 src/
@@ -86,6 +87,40 @@ src/
 ---
 
 ### 📚 Documentation
+=======
+### 🌴 Arborescence
+
+src/
+├─ components/
+│   ├─ Sidebar/
+│   ├─ CategoryList/
+│   ├─ AppGrid/
+│   ├─ Footer/
+│   ├─ UserTypeSelector/
+│   └─ SettingsModal/
+├─ App.tsx
+├─ categories-data.ts
+├─ main.tsx
+├─ index.css
+├─ index.js
+├─ index.html
+└─preload.js
+
+Chaque composant représente une zone fonctionnelle de l’application :
+
+- *Sidebar* (catégories à gauche, rétractable)
+- *CategoryList* (catégories/sous-catégories)
+- *AppGrid* (zone centrale : applis/logiels/sites)
+- *Footer* (barre tout en bas)
+- *UserTypeSelector* (choix du mode d’utilisation)
+- *SettingsModal* (paramètres en pop-up)
+
+Le style est géré principalement avec Tailwind CSS et les couleurs de la charte Cryptos Services.
+
+---
+
+### 📚 Documentation (FR)
+>>>>>>> b0074b9 (Initial commit: source, config, docs)
 
 - [Guide de démarrage](docs/FR_guide_demarrage.md) *(en cours)*
 - [FAQ](docs/FR_faq.md) *(en cours)*
@@ -95,8 +130,14 @@ src/
 
 ### 🧑‍💻 Contribuer
 
+<<<<<<< HEAD
 HyperBox est ouvert à toutes vos idées !  
 Pour proposer une amélioration ou corriger un bug :
+=======
+HyperBox est ouvert à toutes vos idées !
+Pour proposer une amélioration ou corriger un bug :
+
+>>>>>>> b0074b9 (Initial commit: source, config, docs)
 1. Forkez le dépôt
 2. Ouvrez une issue ou une pull request
 3. Rejoignez la communauté !
@@ -150,12 +191,17 @@ With HyperBox, organize your shortcuts by category (Development, Crypto, Office,
 
 ---
 
+<<<<<<< HEAD
 ### 📦 Installation
+=======
+### 📦 Upload
+>>>>>>> b0074b9 (Initial commit: source, config, docs)
 
 *Coming soon: Windows, Mac, and Linux instructions. Stay tuned!*
 
 ---
 
+<<<<<<< HEAD
 ### 🌴 Arborescence 
 
 src/
@@ -195,6 +241,40 @@ src/
 ---
 
 ### 📚 Documentation
+=======
+## 🗂️ Architecture des fichiers
+
+src/
+├─ components/
+│   ├─ Sidebar/
+│   ├─ CategoryList/
+│   ├─ AppGrid/
+│   ├─ Footer/
+│   ├─ UserTypeSelector/
+│   └─ SettingsModal/
+├─ App.tsx
+├─ categories-data.ts
+├─ main.tsx
+├─ index.css
+├─ index.js
+├─ index.html
+└─preload.js
+
+Chaque composant représente une zone fonctionnelle de l’application :
+
+- *Sidebar* (catégories à gauche, rétractable)
+- *CategoryList* (catégories/sous-catégories)
+- *AppGrid* (zone centrale : applis/logiels/sites)
+- *Footer* (barre tout en bas)
+- *UserTypeSelector* (choix du mode d’utilisation)
+- *SettingsModal* (paramètres en pop-up)
+
+Le style est géré principalement avec Tailwind CSS et les couleurs de la charte Cryptos Services.
+
+---
+
+### 📚 Documentation (EN)
+>>>>>>> b0074b9 (Initial commit: source, config, docs)
 
 - [Getting Started Guide](docs/EN_getting_started.md) *(in progress)*
 - [FAQ](docs/EN_faq.md) *(in progress)*
@@ -206,6 +286,10 @@ src/
 
 HyperBox welcomes all your ideas!
 To suggest an enhancement or fix a bug:
+<<<<<<< HEAD
+=======
+
+>>>>>>> b0074b9 (Initial commit: source, config, docs)
 1. Fork the repo
 2. Open an issue or pull request
 3. Join the community!
@@ -217,3 +301,56 @@ To suggest an enhancement or fix a bug:
 [MIT](LICENSE)
 
 ---
+<<<<<<< HEAD
+=======
+
+Paramètres
+├── 🎨 Apparence
+├── 📁 Applications  ⭐ (priorité)
+├── 🔧 Comportement
+├── 📊 Stockage
+└── ℹ️ À propos
+
+🎨 1. Apparence & Interface
+
+Thème : Dark / Light / Système (PC)
+Taille de la grille : 6, 8, 10, 12 colonnes
+Taille des icônes : Petit, Moyen, Grand
+Animation sidebar : Activée/Désactivée
+Langue : FR/EN (préparation future)
+
+📁 2. Gestion des Applications
+Répertoire d'installation : Choix du dossier central HyperBox (Fait)
+Mode d'ajout par défaut :
+✅ Conserver l'emplacement actuel (raccourci)
+✅ Déplacer vers HyperBox (centralisation)
+✅ Toujours demander
+Nettoyage automatique : Supprimer les raccourcis cassés
+Mise à jour des icônes : Refresh automatique des favicons
+
+🔧 3. Comportement
+Ouverture au démarrage : Lancer HyperBox avec Windows
+Minimiser en tray : Réduire dans la barre système
+Raccourcis clavier : Ctrl+Alt+H pour ouvrir, etc.
+Double-clic : Action par défaut (ouvrir/éditer)
+
+📊 4. Stockage & Sauvegarde
+Dossier de configuration : Localisation des données
+Export/Import : Sauvegarder/Restaurer la configuration
+Synchronisation Cloud : (futur) OneDrive, Google Drive, etc.
+Sauvegarde automatique : Fréquence des backups
+
+🚀 5. Performance
+Cache des icônes : Taille limite, nettoyage
+Démarrage rapide : Précharger au boot
+Animations : Réduire pour performance
+Logs de debug : Activer/Désactiver
+
+ℹ️ 6. Informations
+Version : HyperBox v1.0.0
+À propos : Liens GitHub, licence MIT
+Statistiques : Nombre d'apps, d'utilisation
+Aide : Documentation, raccourcis
+
+node --experimental-modules generate-storacha-agent.js
+>>>>>>> b0074b9 (Initial commit: source, config, docs)
